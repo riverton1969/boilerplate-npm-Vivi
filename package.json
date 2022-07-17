@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
   "author": "Vivi",
+  "description": "Basic certification for backend and APIs",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
