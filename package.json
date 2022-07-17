@@ -3,6 +3,7 @@
   "author": "Vivi",
   "description": "Basic certification for backend and APIs",
   "keywords": ["freecodecamp", "API", "backend"],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
